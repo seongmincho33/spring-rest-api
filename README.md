@@ -1,0 +1,11 @@
+# SPRING-REST-API
+
+## Test
+```bash
+$ curl http://localhost:8080/hello | jq
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to localhost port 8080 after 1 ms: Couldn't connect to server
+```
+
